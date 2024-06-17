@@ -2,9 +2,9 @@
 
 [Email Me](mailto:archywilliams2@gmail.com)
 
-## Gym Fitness Website
+## E-commerce Website
 
-This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript.
+This repository contains the source code for an E-commerce website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript and JQuery.
 
 - Visit the website on [Gym Website](https://william-gym-website.netlify.app/)
 
@@ -22,7 +22,7 @@ This repository contains the source code for a gym website, implemented as a sin
 
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/DeveloperWilliams/Gym-website.git`
+- Clone this repository: git clone `https://github.com/DeveloperWilliams/boreholeWebsite.git`
 - Navigate to the project directory: cd Gym-Website
 - Open the index.html file in your web browser.
 
