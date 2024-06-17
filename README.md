@@ -44,7 +44,7 @@ Feel free to customize the code and design to align with your gym's unique ident
 
 ### Contributing
 
-If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
+If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome.
 
 
 
