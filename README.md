@@ -2,7 +2,7 @@
 
 [Email Me](mailto:archywilliams2@gmail.com)
 
-## Gym Website
+## Proffesional Gym Website
 
 This repository contains the source code for an E-commerce website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript and JQuery.
 
